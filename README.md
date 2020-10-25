@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is my first post](https://dev.to/timbergus/this-is-my-first-post-58ao)
 <!-- BLOG-POST-LIST:END -->
 
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
