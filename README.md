@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=timbergus)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo Muñoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbergus&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
 [CodePen]: https://codepen.io/timbergus
