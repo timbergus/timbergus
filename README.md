@@ -1,4 +1,4 @@
-## Hi there, I'm Gustavo - aka timbergus. Nice to meet you 👋
+## Hi there! I'm Gustavo - aka timbergus. Nice to meet you 👋
 
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1999316?style=for-the-badge)
 
