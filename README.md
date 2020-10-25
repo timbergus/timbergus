@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [<img height="32" width="40" alt="CodePen" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
 [<img height="32" width="40" alt="StackOverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
 
-## Languages and Tools
+## 🛠 Languages and Tools
 
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 [<img width="58" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][Git]
 [<img width="58" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 
-## Learning Right Now
+## 📚 Learning Right Now
 
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][Flutter]
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][Dart]
 
-## Latest Blog Posts
+## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
