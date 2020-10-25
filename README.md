@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
 [<img alt="C/C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
-[<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
-[<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][VIM]
-[<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][ESLint]
-[<img width="58" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][Git]
+[<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
+[<img alt="VIM" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][VIM]
+[<img alt="ESLint" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][ESLint]
+[<img width="58" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 [<img width="58" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 
 ## 📚 Learning Right Now
@@ -67,16 +67,6 @@ Here are some ideas to get you started:
 ## 📊 Stats
 
 [![Gustavo Muñoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbergus&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📅 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/StateOfJS/state-of-js-graphql-results-api/issues/54) in [StateOfJS/state-of-js-graphql-results-api](https://github.com/StateOfJS/state-of-js-graphql-results-api)
-2. 🗣 Commented on [#53](https://github.com/StateOfJS/state-of-js-graphql-results-api/issues/53) in [StateOfJS/state-of-js-graphql-results-api](https://github.com/StateOfJS/state-of-js-graphql-results-api)
-3. 🗣 Commented on [#51](https://github.com/StateOfJS/state-of-js-graphql-results-api/issues/51) in [StateOfJS/state-of-js-graphql-results-api](https://github.com/StateOfJS/state-of-js-graphql-results-api)
-4. 💪 Opened PR [#58](https://github.com/StateOfJS/state-of-js-graphql-results-api/pull/58) in [StateOfJS/state-of-js-graphql-results-api](https://github.com/StateOfJS/state-of-js-graphql-results-api)
-5. 💪 Opened PR [#57](https://github.com/StateOfJS/state-of-js-graphql-results-api/pull/57) in [StateOfJS/state-of-js-graphql-results-api](https://github.com/StateOfJS/state-of-js-graphql-results-api)
-<!--END_SECTION:activity-->
 
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
 [CodePen]: https://codepen.io/timbergus
