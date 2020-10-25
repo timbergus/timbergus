@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## 📊 Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=timbergus)](https://github.com/anuraghazra/github-readme-stats)
+
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
 [CodePen]: https://codepen.io/timbergus
 [StackOverflow]: https://stackoverflow.com/users/1999316/timbergus
