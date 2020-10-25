@@ -1,5 +1,7 @@
 ## Hi there, I'm Gustavo - aka timbergus. Nice to meet you 👋
 
+[![Gustavo Muñoz's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1999316&layout=compact&theme=dark)](https://stackoverflow.com/users/1999316/timbergus)
+
 # I'm a enthusiast developer in love with JavaScript
 
 <!--
