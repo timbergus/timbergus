@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 
 [![Gustavo Muñoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbergus&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:activity-->
+
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
 [CodePen]: https://codepen.io/timbergus
 [StackOverflow]: https://stackoverflow.com/users/1999316/timbergus
