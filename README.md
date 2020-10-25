@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Contact
 
-[<img height="32" width="32" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img height="32" width="32" alt="CodePen" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
-[<img height="32" width="32" alt="StackOverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
+[<img height="32" width="40" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img height="32" width="40" alt="CodePen" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
+[<img height="32" width="40" alt="StackOverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
 
 ## Languages and Tools
 
@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][Dart]
 
 ## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
 [CodePen]: https://codepen.io/timbergus
