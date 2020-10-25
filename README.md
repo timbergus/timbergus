@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🥅 2021 goals: work in the next Mars Rover!
 - ⚡ Fun fact: I started coding because I wanted to be a Hacker.
 
-## Contact
+## 💬 Contact
 
 [<img height="32" width="40" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img height="32" width="40" alt="CodePen" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
