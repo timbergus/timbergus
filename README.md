@@ -1,7 +1,5 @@
 ## Hi there, I'm Gustavo - aka timbergus. Nice to meet you 👋
 
----
-
 # I'm a enthusiast developer in love with JavaScript
 
 <!--
@@ -32,7 +30,15 @@ Here are some ideas to get you started:
 [<img alt="HTML" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/search?q=html)
 [<img alt="CSS" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/search?q=css)
 [<img alt="JavaScript" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/search?q=javascript)
+[<img alt="JavaScript" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://www.typescriptlang.org/)
+[<img alt="JavaScript" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
+[<img alt="JavaScript" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://redux.js.org/)
+[<img alt="JavaScript" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](https://graphql.org/)
+[<img alt="JavaScript" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
+[<img alt="JavaScript" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://firebase.google.com/)
 [<img alt="C/C++" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://github.com/search?q=cpp)
 [<img alt="Python" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/search?q=python)
+[<img alt="Python" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img alt="Python" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://www.vim.org/)
 
-### Latest blog posts
+## Latest blog posts
