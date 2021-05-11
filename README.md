@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Taxfix.
 - 🌱 I’m currently learning as much as I can.
 - 🥅 2021 goals: work in the next Mars Rover!
-- ⚡ Fun fact: I started coding because I wanted to be a Hacker.
-- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I started coding because I wanted to build robots.
 
 ## 💬 Contact
 
