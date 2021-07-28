@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working at Taxfix.
+- 🔭 I’m currently working at JOOR.
 - 🌱 I’m currently learning as much as I can.
 - 🥅 2021 goals: work in the next Mars Rover!
 - ⚡ Fun fact: I started coding because I wanted to build robots.
