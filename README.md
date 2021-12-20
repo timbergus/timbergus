@@ -1,8 +1,9 @@
 ## Hi there! I'm Gustavo - aka timbergus. Nice to meet you 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1999316?style=for-the-badge)
 
-# I'm a enthusiast developer in love with JavaScript
+# I'm a enthusiast developer in love with JavaScript/TypeScript
 
 <!--
 **timbergus/timbergus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +23,9 @@ Here are some ideas to get you started:
 
 ## 💬 Contact
 
-[<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img alt="CodePen" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
-[<img alt="StackOverflow" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-My%20professional%20profile-blue?style=for-the-badge&logo=linkedin" />][LinkedIn]
+[<img alt="CodePen" src="https://img.shields.io/badge/CodePen-My%20personal%20playground-green?style=for-the-badge&logo=codepen" />][CodePen]
+[<img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-Myself-orange?style=for-the-badge&logo=stackoverflow" />][StackOverflow]
 
 ## 🛠 Languages and Tools
 
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 [<img alt="Testing Library" width="58" src="https://testing-library.com/img/octopus-64x64.png" />][Testing Library]
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
-[<img alt="[C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
+[<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
 [<img alt="VIM" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][VIM]
@@ -50,8 +51,8 @@ Here are some ideas to get you started:
 
 ## 📚 Learning Right Now
 
-[<img alt="Flutter" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][Flutter]
-[<img alt="Dart" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][Dart]
+[<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
+[<img alt="Swift" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift]
 
 ## 📃 Latest Blog Posts
 
@@ -84,6 +85,7 @@ Here are some ideas to get you started:
 [Node]: https://nodejs.org/en/
 [Firebase]: https://firebase.google.com/
 [C++]: https://github.com/search?q=cpp
+[Swift]: https://github.com/search?q=swift
 [Python]: https://github.com/search?q=python
 [Visual Studio]: https://code.visualstudio.com/
 [VIM]: https://www.vim.org/
