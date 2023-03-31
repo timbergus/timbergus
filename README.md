@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working at JOOR.
+- 🔭 I’m currently working at Santander Group.
 - 🌱 I’m currently learning as much as I can.
-- 🥅 2021 goals: work in the next Mars Rover!
+- 🥅 2023 goals: work in the next Mars Rover!
 - ⚡ Fun fact: I started coding because I wanted to build robots.
 
 ## 💬 Contact
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 [<img alt="Testing Library" width="58" src="https://testing-library.com/img/octopus-64x64.png" />][Testing Library]
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
+[<img alt="Swift" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift]
 [<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
@@ -51,8 +52,9 @@ Here are some ideas to get you started:
 
 ## 📚 Learning Right Now
 
-[<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
 [<img alt="Swift" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift]
+[<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
+[<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 
 ## 📃 Latest Blog Posts
 
